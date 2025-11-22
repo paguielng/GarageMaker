@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am [Paguiel Nganji](https://github.com/paguielng), a student passionate about electronics, robotics, and aerospace, currently pursuing a degree in **Electrical Engineering and Industrial Computing**, and I specialize in automation, electronics, and embedded systems. This website is more than just a resume. It is a reflection of my journey and my ambition: to become an engineer. Here, you will find not only my academic background but, more importantly, the practical application of my knowledge through hands-on projects I build in my personal time.
+I am [Paguiel Nganji](https://www.linkedin.com/in/paguiel-nganji/), a student passionate about electronics, robotics, and aerospace, currently pursuing a degree in **Electrical Engineering and Industrial Computing**, and I specialize in automation, electronics, and embedded systems. This website is more than just a resume. It is a reflection of my journey and my ambition: to become an engineer. Here, you will find not only my academic background but, more importantly, the practical application of my knowledge through hands-on projects I build in my personal time.
 
   You will find some of my projects on my [Github profile](https://github.com/paguielng), such as rocket development projects, hardware gadgets, and more. Each project is a step in my journey to master embedded systems and solve real-world engineering challenges.
 
@@ -19,7 +19,7 @@ My passion extends beyond simple electronics; I am deeply fascinated by the inte
 
 To do this, I continuously explore tools and methods that are standard in the industry. I use some popular tools:
 - [C/C++](https://isocpp.org/) for performance-critical embedded applications.
-- [KiCad](https://www.kicad.org/) for schematizing
+- [KiCad](https://www.kicad.org/) for schematizing electronic circuit
 - [Git/GitHub](https://github.com/paguielng/) for managing my projects
 - [Wokwi](https://wokwi.com/) for online ESP32 simulator
 - [MatLab](https://www.mathworks.com/products/matlab.html/) for computing simulations
