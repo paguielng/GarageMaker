@@ -11,7 +11,7 @@ I am [Paguiel Nganji](https://github.com/paguielng), a student passionate about 
 
   You will find some of my projects on my [Github profile](https://github.com/paguielng), such as rocket development projects, hardware gadgets, and more. Each project is a step in my journey to master embedded systems and solve real-world engineering challenges.
 
-A data-driven personal website
+A resource-driven personal work
 ======
 I believe that the best way to learn is by doing. While my academic studies in Electrical Engineering and Industrial Computing provide me with a strong theoretical foundation, my personal projects are where I truly bring these concepts to life. This hands-on approach allows me to face real-world challenges, debug complex problems, and develop a deep, practical understanding of electronic systems. This portfolio is a living document of that process, showcasing not just the final result, but the journey of learning and iteration behind each creation.
 
