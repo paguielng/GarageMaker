@@ -70,8 +70,8 @@ Skills
             <span>Python</span>
             <ul class="sub-skills">
                 <li>Data analysis (Matplotlib, NumPy)</li>
-        </li>
-    </ul>
+        </ul>
+    </li>
 
 </div>
 
