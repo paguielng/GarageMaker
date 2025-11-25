@@ -48,7 +48,7 @@ Skills
                 <li>Object-Oriented Programming (OOP)</li>
                 <li>Memory Management (Pointers)</li>
                 <li>Low-Level Programming (Hardware)</li>
-                <li>Responsive HTML, CSS, and JavaScript web pages.</li>
+                <li>Responsive HTML, CSS and JS web pages.</li>
             </ul>
         </li>
 
