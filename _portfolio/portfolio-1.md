@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='./images/500x300.png'>"
+title: "FNK0050"
+excerpt: "Freenove Robot Dog Kit for Raspberry Pi <br/><img src='https://github.com/paguielng/FNK0050/blob/main/raspiPi-hardware/code-micro-robot/Picture/icon.png?raw=true'>"
 collection: portfolio
 ---
 
