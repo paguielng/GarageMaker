@@ -2,7 +2,7 @@
 title: "FNK0050"
 excerpt: >
   Freenove Robot Dog Kit for Raspberry Pi  
-  <img src="https://github.com/paguielng/FNK0050/blob/main/raspiPi-hardware/code-micro-robot/Picture/icon.png?raw=true" width="150">
+  <img src="https://github.com/paguielng/FNK0050/blob/main/raspiPi-hardware/code-micro-robot/Picture/icon.png?raw=true" width="600">
 collection: portfolio
 ---
 
