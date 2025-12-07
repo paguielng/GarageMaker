@@ -28,3 +28,7 @@
 .page__content ol {
   font-size: 0.9rem;
 }
+
+body {
+  background: red !important;
+}
