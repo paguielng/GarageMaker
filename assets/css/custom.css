@@ -1,7 +1,6 @@
 /* Taille générale du texte */
 .page__content {
   font-size: 0.9rem;
-  line-height: 1.5;
 }
 
 /* Titres plus petits */
@@ -29,6 +28,7 @@
   font-size: 0.9rem;
 }
 
-body {
-  background: red !important;
+.page__content {
+  font-size: 0.9rem;
 }
+
